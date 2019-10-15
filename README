@@ -27,5 +27,5 @@ In each of the four runs of the production phase, participants drew both Trained
 
 ## fMRI data acquisition
 
-MRI data were collected on a 3T Siemens Skyra scanner with a 64-channel \todo{verify num channels} head coil. Functional images were obtained with a multiband echo-planar imaging (EPI) sequence (TR = 1500 ms, TE = 30 ms, flip angle = $70^{\circ}$, acceleration factor = 4, voxel size = 2 mm isotropic), yielding 72 transversal \todo{verify orientation} slices that provided whole-brain coverage. High resolution T1-weighted anatomical images were acquired with a magnetization-prepared rapid acquisition gradient echo (MPRAGE) sequence (TR = 2530 ms, TE = 3.30 ms, voxel size = 1 mm isotropic, 176 slices, 60 flip angle).
+MRI data were collected on a 3T Siemens Skyra scanner with a 64-channel  head coil. Functional images were obtained with a multiband echo-planar imaging (EPI) sequence (TR = 1500 ms, TE = 30 ms, flip angle = 60, acceleration factor = 4, voxel size = 2 mm isotropic), yielding 72 transversal slices that provided whole-brain coverage. High resolution T1-weighted anatomical images were acquired with a magnetization-prepared rapid acquisition gradient echo (MPRAGE) sequence (TR = 2530 ms, TE = 3.30 ms, voxel size = 1 mm isotropic, 176 slices, flip angle=60).
 
