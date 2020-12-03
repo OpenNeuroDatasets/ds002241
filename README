@@ -4,7 +4,7 @@ Based on initial piloting, we developed a target sample size of 36 participants,
 
 ## Stimuli
 
-Four objects were used in this study: bed, bench, chair, table. These objects were represented by 3D mesh models constructed in Autodesk Maya to contain the same number of vertices and the same brown surface texture, and thereby share similar visual properties other than their shape. Each of these objects was rendered from a 10$^{\circ}$ viewing angle (i.e., slightly above) at a fixed distance on a gray background in 40 viewpoints (i.e., each rotated by an additional 9$^{\circ}$ about the vertical axis). 
+Four objects were used in this study: bed, bench, chair, table. These objects were represented by 3D mesh models constructed in Autodesk Maya to contain the same number of vertices and the same brown surface texture, and thereby share similar visual properties other than their shape. Each of these objects was rendered from a 10° viewing angle (i.e., slightly above) at a fixed distance on a gray background in 40 viewpoints (i.e., each rotated by an additional 9° about the vertical axis). 
 
 ## Task and procedure
 
